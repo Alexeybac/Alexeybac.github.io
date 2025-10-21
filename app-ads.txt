@@ -1,1 +1,2 @@
 ads.vk.com, 25718546, DIRECT
+target.vk.ru, 25718546, direct
